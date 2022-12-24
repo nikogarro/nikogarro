@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikogarro
-- 👀 I’m interested in **Data Science, Machine & Deep Learning, Automation and Robotics**
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in **`Data Science, Machine & Deep Learning, Automation and Robotics`**
+- 🌱 I’m currently learning ***Deep Learning!***
 - 📫 How to reach me 123nikosgarro@gmail.com
 
 <!---
